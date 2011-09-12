@@ -1,0 +1,24 @@
+-classpath
+'C:/projects/liquibase-liquibase-3fee37c/liquibase-core/target/classes;C:/Documents and Settings/kwhitmore/.m2/repository/org/tmatesoft/svnkit/svnkit/1.3.5/svnkit-1.3.5.jar;C:/Documents and Settings/kwhitmore/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar;C:/Documents and Settings/kwhitmore/.m2/repository/ant/ant/1.6.5/ant-1.6.5.jar;C:/Documents and Settings/kwhitmore/.m2/repository/org/springframework/spring/2.0.6/spring-2.0.6.jar;C:/Documents and Settings/kwhitmore/.m2/repository/commons-logging/commons-logging/1.1/commons-logging-1.1.jar;C:/Documents and Settings/kwhitmore/.m2/repository/logkit/logkit/1.0.1/logkit-1.0.1.jar;C:/Documents and Settings/kwhitmore/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar;C:/Documents and Settings/kwhitmore/.m2/repository/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/projects/liquibase-liquibase-3fee37c/liquibase-core/../liquibase-core/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2011 <a href="http://www.liquibase.org">Liquibase.org</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'C:/projects/liquibase-liquibase-3fee37c/liquibase-core/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Liquibase Core 2.0.2-SNAPSHOT API'
+-link
+'http://java.sun.com/j2se/1.5.0/docs/api'
+-use
+-version
+-windowtitle
+'Liquibase Core 2.0.2-SNAPSHOT API'
